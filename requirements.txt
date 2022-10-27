@@ -1,2 +1,2 @@
-django
-gurnicorn
+django == 4.1.2
+gurnicorn == 20.1.0
