@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn hng_internship.wsgi
